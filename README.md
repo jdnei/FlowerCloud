@@ -10,6 +10,7 @@
 ```bash
 IBNG75AW6T 
 ```
+![imgage](https://github.com/jdnei/FlowerCloud/blob/main/img/20260302-101443.png?raw=true)
 ## 优势
 1. 核心线路架构  
 花云的技术底层非常深厚，是典型的“不计成本买带宽”型机场。  
