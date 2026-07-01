@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# FlowerCloud 花云机场 专线机场 官方地址 (2026年6月30日更新)
+# FlowerCloud 花云机场 专线机场 官方地址 (2026年7月1日更新)
 FlowerCloud 花云机场 专线机场 官网地址</br>
 官方地址: [flowercloud.net](https://api-flowercloud.com/aff.php?aff=21358)  
 ## Telegram VPN 机场福利社 #AD
