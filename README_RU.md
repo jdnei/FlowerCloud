@@ -1,5 +1,5 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
-# Официальный адрес FlowerCloud Dedicated-Line Airport (обновлено 4 июля 2026)
+# Официальный адрес FlowerCloud Dedicated-Line Airport (обновлено 5 июля 2026)
 
 Официальный адрес: [flowercloud.net](https://api-flowercloud.com/aff.php?aff=21358)
 

@@ -1,5 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-# آدرس رسمی FlowerCloud Dedicated-Line Airport (به‌روزرسانی 4 ژوئیه 2026)
+# آدرس رسمی FlowerCloud Dedicated-Line Airport (به‌روزرسانی 5 ژوئیه 2026)
 
 آدرس رسمی: [flowercloud.net](https://api-flowercloud.com/aff.php?aff=21358)
 
