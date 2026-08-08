@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный адрес FlowerCloud VPN с выделенными линиями (обновлено 7 августа 2026)
+# Официальный адрес FlowerCloud VPN с выделенными линиями (обновлено 8 августа 2026)
 
 Адрес официального сайта FlowerCloud VPN с выделенными линиями</br>
 Официальный адрес: [flowercloud.net](https://api-flowercloud.com/aff.php?aff=22199)
