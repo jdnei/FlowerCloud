@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# FlowerCloud VPN Dedicated-Line VPN Official Address (Updated August 11, 2026)
+# FlowerCloud VPN Dedicated-Line VPN Official Address (Updated August 12, 2026)
 
 FlowerCloud VPN Dedicated-Line VPN Official Website Address</br>
 Official Address: [flowercloud.net](https://api-flowercloud.com/aff.php?aff=22199)
