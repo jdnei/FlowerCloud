@@ -3,7 +3,7 @@
 
 # FlowerCloud 花云机场 专线机场 官方地址 (2026年8月12日更新)
 FlowerCloud 花云机场 专线机场 官网地址</br>
-官方地址: [flowercloud.net](https://api-flowercloud.com/aff.php?aff=22199)</br>
+官方地址: [flowercloud.net](https://api-flowercloud.com/aff.php?aff=22406)</br>
 
 最近有断连情况，没年付的，可以试试白月光专线机场：[测评](https://github.com/jdnei/bygcloud)</br>
 
