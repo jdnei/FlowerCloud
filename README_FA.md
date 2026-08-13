@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی FlowerCloud VPN با خطوط اختصاصی (به‌روزرسانی 12 اوت 2026)
+# آدرس رسمی FlowerCloud VPN با خطوط اختصاصی (به‌روزرسانی 13 اوت 2026)
 
 آدرس وب‌سایت رسمی FlowerCloud VPN با خطوط اختصاصی</br>
 آدرس رسمی: [flowercloud.net](https://api-flowercloud.com/aff.php?aff=22199)
