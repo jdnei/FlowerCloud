@@ -17,28 +17,9 @@ FlowerCloud 花云机场 专线机场 官网地址</br>
 花云机场（FlowerCloud） 是机场界的“老牌顶级梯队”成员，与 WgetCloud、一等鹿（Nexitally）并称为高端市场的领头羊。如果说 WgetCloud 强在自研技术和分组管理，那么花云则强在极致的线路稳定性和极度丰富的节点资源。花云机场官网地址。
 ## 优惠码/折扣码
 `花云折扣码，花云机场折扣码，花云优惠码，花云机场优惠码，花云8折优惠码，花云八折优惠码`</br>
-`(Air/企业 套餐 暂时不可用)`</br>
-`官方有随时取消或放开打折码的权利做活动，订阅时需注意点。最后一个是花云九折码。`</br>
+`全场八折(Air/企业 套餐 暂时不可用)，有效期至9月30日 23:59`</br>
 ```bash
-1B787AOGRM
-```
-```bash
-9LLCOT83PM
-```
-```bash
-IBNG75AW6T 
-```
-```bash
-LAODONGJIE 
-```
-```bash
-1U59ETD0TW 
-```
-```bash
-1YT9E1A6QO 
-```
-```bash
-TY363C5OCH 
+MX9IXRGN69
 ```
 ![imgage](https://github.com/jdnei/FlowerCloud/blob/main/img/20260302-101443.png?raw=true)
 ## 优势
