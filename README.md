@@ -8,6 +8,11 @@ FlowerCloud 花云机场 专线机场 官网地址</br>
 最近有断连情况，没年付的，可以试试TAG专线机场：[测评](https://github.com/jdnei/TAG)</br>
 最近有断连情况，没年付的，可以试试白月光专线机场：[测评](https://github.com/jdnei/bygcloud)</br>
 
+众所周知，花云有内鬼区，如果你买了，延迟200+，去申请退款！！！不退就认栽吧。
+![imgage](?raw=true)
+
+
+
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
 [机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
