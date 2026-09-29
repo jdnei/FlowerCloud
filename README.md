@@ -9,6 +9,7 @@ FlowerCloud 花云机场 专线机场 官网地址</br>
 最近有断连情况，没年付的，可以试试白月光专线机场：[测评](https://github.com/jdnei/bygcloud)</br>
 
 众所周知，花云有内鬼区，如果你买了，延迟200+，去申请退款！！！不退就认栽吧。
+`群里小伙伴被坑，我也是第一次真实的遇到，我帮他测过了，确实延迟不一样`
 ![imgage](https://github.com/jdnei/FlowerCloud/blob/main/huayun/23984710938409he.jpg?raw=true)
 
 
