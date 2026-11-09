@@ -47,6 +47,9 @@ TikTok 优化： 花云有专门标注的 TikTok 解锁节点，IP 质量干净�
 | **Plus** | ￥58.00/月 | 400GiB | 1000Mbps | 重度流量用户，TikTok/流媒体推荐 |
 | **Max** | ￥113.00/月 | 1000GiB | 1000Mbps | 极速大流量，适用于团队或多设备 |
 ### 【XXX实验性节点】是0.2倍率！！！！ 20G的直接当成100G用！！！！
+
+![image](https://github.com/jdnei/FlowerCloud/blob/main/huayun/jlfjlasjdfl0.2.jpeg?raw=ture)
+
 ---
 **所有套餐均包含：**
 * 🇨🇳 中国大陆国际专线传输 (IEPL/IPLC)</br>
